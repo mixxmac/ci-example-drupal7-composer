@@ -1,4 +1,5 @@
 ## About
+[![Build Status](https://travis-ci.org/mixxmac/ci-example-drupal7-composer.svg)](https://travis-ci.org/mixxmac/ci-example-drupal7-composer)
 
 This project utilizes the [pantheon-systems/travis-scripts](https://github.com/pantheon-systems/travis-scripts) project in order to achieve the following things:
 
